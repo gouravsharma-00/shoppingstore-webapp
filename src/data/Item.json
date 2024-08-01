@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title": "Blue color",
+        "price": 120,
+        "color": "rgb(74, 74, 235)"
+    },
+    {
+        "id" : 2,
+        "title": "Green color",
+        "price": 110,
+        "color": "rgb(74, 235, 74)"
+    },
+    {
+        "id" : 3,
+        "title": "Red color",
+        "price": 150,
+        "color": "rgb(235, 74, 74)"
+    },
+    {
+        "id" : 4,
+        "title": "Black color",
+        "price": 100,
+        "color": "rgb(74, 74, 74)"
+    }
+]
